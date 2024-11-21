@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "087701725776"
+    },
+    {
+      "whatsappNumber": "085921432812"
+    },
+    {
+      "whatsappNumber": "081234567890"
+    },
+    {
+      "whatsappNumber": "082345678901"
+    },
+    {
+      "whatsappNumber": "083456789012"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "087701725776"
+    },
+    {
+      "whatsappNumber": "085921432812"
+    },
+    {
+      "whatsappNumber": "081234567890"
+    },
+    {
+      "whatsappNumber": "082345678901"
+    },
+    {
+      "whatsappNumber": "083456789012"
+    }
+  ]
+}
